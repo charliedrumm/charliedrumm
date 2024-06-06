@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Charlie 👋
 
 I'm an MSc Computer Science student at University College Dublin (UCD) with a keen interest in software engineering. I'm passionate about coding, learning new technologies, and solving challenging problems.
 
