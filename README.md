@@ -19,6 +19,11 @@ Carbon Crusade is an educational game developed in Java using JavaFX aimed at en
 ### [RouteFinder](https://github.com/charliedrumm/RouteFinder)
 This project focuses on optimizing driving routes from University College Dublin (UCD) to Westmeath during rush hour traffic by leveraging less traditional routes and real-time traffic data. It uses a graph data structure to model the road network and Dijkstra's algorithm to find the quickest path, dynamically adjusting for current traffic conditions. The aim is to provide a more efficient and accurate navigation solution for daily commuters.
 
+### [COVID-19 Data Cleaning](https://github.com/charliedrumm/COVID-19-CDC-Data-Cleaning-and-Analytics)
+![image](https://github.com/charliedrumm/charliedrumm/assets/145464734/a58cbf7b-600c-4d59-986d-40347c285de5) ![image](https://github.com/charliedrumm/charliedrumm/assets/145464734/0c7f792c-5da1-4ca3-85e6-58b623960628)
+
+### [COVID-19 Death Prediction Model](https://github.com/charliedrumm/COVID-19-Death-Prediction-Models)
+![image](https://github.com/charliedrumm/charliedrumm/assets/145464734/f518cc2c-98ef-43e9-8b0e-48359c80ea54)  ![image](https://github.com/charliedrumm/charliedrumm/assets/145464734/572fdd72-8338-41af-954a-3f1eb5d611fc)
 
 
 
