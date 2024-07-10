@@ -4,7 +4,7 @@ I'm an MSc Computer Science student at University College Dublin (UCD) with a ke
 
 ## Skills
 
-- **Languages**: Python, Java, JavaScript, C++
+- **Languages**: Python, Java, JavaScript
 - **Frameworks**: React, Node.js, Django
 - **Tools**: Git, Docker, AWS
 
