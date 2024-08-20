@@ -10,6 +10,14 @@ I'm an MSc Computer Science student at University College Dublin (UCD) with a ke
 
 ## Projects
 
+
+### [CycleSeek](https://github.com/EamonnWalsh01/Software-Eng)
+CycleSeek is a web application designed for cyclists in Dublin, allowing users to check close to real-time availability of bikes and navigate to and from bike stations. The app also provides additional features including route suggestions, historical data, and predictive graphs of bike usage.
+
+<div style="display: flex; gap: 10px;">
+  ![image](https://github.com/user-attachments/assets/ed05af31-c478-4185-a410-8a92ed278a91)
+</div>
+
 ### [Carbon Crusade](https://github.com/charliedrumm/carbonGame)
 Carbon Crusade is an educational game developed in Java using JavaFX aimed at encouraging kids to understand the benefits of using public transport. Through gamification, players learn to balance time, carbon, and money budgets while collecting gems placed at random locations around the map.
 
