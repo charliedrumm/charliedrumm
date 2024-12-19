@@ -12,7 +12,7 @@ I'm an MSc Computer Science student at University College Dublin (UCD) with a ke
 ### [AdOptima](https://github.com/DR7439/New-York-App)
 Ad Optima is a web application designed to optimize Out Of Home (OOH) advertising in Manhattan. By utilizing a variety of open datasets, Ad Optima helps businesses select strategic advertising locations to maximize consumer engagement and foot traffic.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VRSp0GLcfP8" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/VRSp0GLcfP8/0.jpg)](https://youtu.be/VRSp0GLcfP8)
 
 
 ### [CycleSeek](https://github.com/EamonnWalsh01/Software-Eng)
