@@ -9,6 +9,9 @@ I'm an MSc Computer Science student at University College Dublin (UCD) with a ke
 - **Tools**: Git, Docker, AWS
 
 ## Projects
+### [AdOptima](https://github.com/DR7439/New-York-App)
+Ad Optima is a web application designed to optimize Out Of Home (OOH) advertising in Manhattan. By utilizing a variety of open datasets, Ad Optima helps businesses select strategic advertising locations to maximize consumer engagement and foot traffic.
+
 
 
 ### [CycleSeek](https://github.com/EamonnWalsh01/Software-Eng)
